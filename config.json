@@ -1,0 +1,31 @@
+{
+    "firebase": {
+        "apiKey": "AIzaSyDDSNRsbThNIULzwEt5KuKFsMMo7dfT0gA",
+        "authDomain": "collection-4f58a.firebaseapp.com",
+        "databaseURL": "https://collection-4f58a.firebaseio.com",
+        "projectId": "collection-4f58a",
+        "storageBucket": "collection-4f58a.appspot.com",
+        "messagingSenderId": "47685828671",
+        "appId": "1:47685828671:web:d8008fcf2daffc1d74788a" 
+    },
+    "push_key": {
+        "serverToken": "AAAACxpMAD8:APA91bGxNGLXFqXqITujLDnuzgIOAmGP4rgkADy0xOtAzP3PF5BZsaSl8OvUstiQ2cBpRk0m8D3DC1rEz_wVIF9OUDti2WOar9wXFBU_SxYy3W1FEvJGt0ZhwnAbg2B4nYJ1kvCEkFlt"
+    },
+    "radio_num": {
+        "09": 21,
+        "10": 21,
+        "11": 54,
+        "12": 22,
+        "13": 22,
+        "14": 23,
+        "15": 23,
+        "16": 50,
+        "17": 50,
+        "18": 25,
+        "19": 25,
+        "20": 26,
+        "21": 26,
+        "22": 27,
+        "23": 27
+    }
+}
